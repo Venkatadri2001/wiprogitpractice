@@ -1,2 +1,1 @@
-# wiprogitpractice
 I am practicing git and github
